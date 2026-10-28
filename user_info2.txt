@@ -1,0 +1,49 @@
+>51612315
+Name: Sarah Johnson
+Age: 15
+Favorite_Foods:
+	Pasta
+	Asparagus
+Purchase_History:
+	100
+	251
+	77
+	33
+
+>12345678
+Name: Matthew Davis
+Age: 31
+Favorite_Foods:
+	Tacos
+	Guacamole
+	Pineapple
+Purchase_History:
+	50
+	80
+	200
+	150
+
+>45678901
+Name: Daniel Kim
+Age: 25
+Favorite_Foods:
+	Sushi
+	Seaweed
+	Green Tea
+Purchase_History:
+	30
+	90
+	60
+	120
+
+>45678901
+Name: Jennifer Baker
+Age: 37
+Favorite_Foods:
+	Salad
+	Salmon
+Purchase_History:
+	150
+	75
+	100
+	200
